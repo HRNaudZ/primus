@@ -1,0 +1,21 @@
+{
+  "name": "primus",
+  "version": "1.0.0",
+  "description": "a telegram bot which offers you ways of earning money online\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[Cshow\u001b[B\u001b[A\u001b[\u001b[C\u001bs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "money",
+    "earning"
+  ],
+  "author": "Yao Renaud WOANA",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.19.1"
+  }
+}
