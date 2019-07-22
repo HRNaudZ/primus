@@ -3,7 +3,7 @@ const lang = require('./lang');
 const funcs = require('./functions');
 
 // replace the value below with the Telegram token you receive from @BotFather
-const token = '939120634:AAHzNe8384H1J-E48kWSizsmrVXDhOBVIWg';
+const token = '';
 
 // Create a bot that uses 'polling' to fetch new updates
 const bot = new TelegramBot(token, { polling: true });
